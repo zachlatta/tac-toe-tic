@@ -1,0 +1,14 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1372027745000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/zach/AndroidStudioProjects/TacToeTicProject/TacToeTic/src/main/res/menu/main.xml
+1372027745000 1290 5eb43f9be80cb40debc56c0d4e12001bf302a38e /Users/zach/AndroidStudioProjects/TacToeTicProject/TacToeTic/src/main/res/drawable-xhdpi/ic_launcher.png
+1372027745000 254 25b6404e44acb50c82590049639d4fb5fefbac8e /Users/zach/AndroidStudioProjects/TacToeTicProject/TacToeTic/src/main/res/values-sw720dp-land/dimens.xml
+1372028179000 214 1a12099151b471b29310d0fa8ead79ab7fd9c332 /Users/zach/AndroidStudioProjects/TacToeTicProject/TacToeTic/src/main/res/values/strings.xml
+1372027745000 989 0e34e2ced22941ae7d17ba9e226a15854b4f0191 /Users/zach/AndroidStudioProjects/TacToeTicProject/TacToeTic/src/main/res/drawable-hdpi/ic_launcher.png
+1372027745000 181 84de2797380184d8b39af6f829afb092fb956173 /Users/zach/AndroidStudioProjects/TacToeTicProject/TacToeTic/src/main/res/values-sw600dp/dimens.xml
+1372027745000 674 c78f92856947cb5742edaa3b94df76b0823dbbe7 /Users/zach/AndroidStudioProjects/TacToeTicProject/TacToeTic/src/main/res/values/styles.xml
+1372027745000 211 4e1904afba59d31e5cd6133f6a4c360fa9a5913f /Users/zach/AndroidStudioProjects/TacToeTicProject/TacToeTic/src/main/res/values/dimens.xml
+1372027745000 2033 b350eab13b04fa46304c38382787de0576b59d2d /Users/zach/AndroidStudioProjects/TacToeTicProject/TacToeTic/src/main/res/drawable-xxhdpi/ic_launcher.png
+1372028213000 819 f7b9484883c4c095c8e29a1b4ac8fd7aa907ffa4 /Users/zach/AndroidStudioProjects/TacToeTicProject/TacToeTic/src/main/res/layout/activity_main.xml
+1372027745000 696 9e471ad03bfa6c49f7b337882ef5ad15afcaf44c /Users/zach/AndroidStudioProjects/TacToeTicProject/TacToeTic/src/main/res/drawable-mdpi/ic_launcher.png
